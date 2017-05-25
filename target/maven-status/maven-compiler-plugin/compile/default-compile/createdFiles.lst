@@ -1,0 +1,9 @@
+pages\LoginAndRegistrationPage.class
+pageresources\CopyDriverInstance.class
+data\DataProviderClass.class
+pages\HomePage.class
+pages\ActivateAccountPage.class
+data\GenerateRegData.class
+pageresources\Utilities.class
+data\GenerateMyAccData.class
+pages\MyAccountPage.class
